@@ -1,0 +1,33 @@
+{
+  "name": "gulp-withdraw-chinese-lang",
+  "version": "1.0.0",
+  "description": "提取中文字符",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengbaozhiling/gulp-withdraw-chinese-lang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengbaozhiling/gulp-withdraw-chinese-lang/issues"
+  },
+  "homepage": "https://github.com/fengbaozhiling/gulp-withdraw-chinese-lang#readme",
+  "dependencies": {
+    "concat-with-sourcemaps": "^1.0.4",
+    "path": "^0.12.7",
+    "through2": "^2.0.3",
+    "vinyl": "^2.0.2",
+    "gulp": "^3.8.7",
+    "gulp-sourcemaps": "^2.2.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.0.0",
+    "mocha-lcov-reporter": "^1.2.0",
+    "should": "^11.0.0",
+    "stream-array": "^1.0.1",
+    "stream-assert": "^2.0.1"
+  }
+}
